@@ -1,0 +1,5 @@
+# Os repos da org são clonados dentro desta pasta; só as ferramentas são versionadas aqui.
+/*/
+!/.osa/
+.osa/*.log
+.DS_Store

@@ -1,0 +1,20 @@
+# repo	product	tagline	workspace_alternative	upstream_name	upstream_url	license
+pad	OSA Pad	Real-time collaborative document editor.	Google Docs	Etherpad	https://github.com/ether/etherpad	Apache-2.0
+sheet	OSA Sheet	Online collaborative spreadsheet.	Google Sheets	Luckysheet	https://github.com/dream-num/Luckysheet	MIT
+cal	OSA Cal	Scheduling and booking pages.	Google Calendar (appointment schedules)	Cal.diy	https://github.com/calcom/cal.diy	MIT
+mail	OSA Mail	Email forwarding and hosting for custom domains.	Gmail	Forward Email	https://github.com/forwardemail/forwardemail.net	MPL-2.0 and BUSL-1.1 (mixed, see LICENSE)
+meet	OSA Meet	Secure peer-to-peer video meetings.	Google Meet	Briefing	https://github.com/holtwick/briefing	AGPL-3.0
+draw	OSA Draw	Infinite canvas whiteboard.	Google Drawings / Jamboard	tldraw	https://github.com/tldraw/tldraw	tldraw license (source-available; production use requires a license from tldraw, Inc., see LICENSE.md)
+drop	OSA Drop	Local file sharing in the browser.	Quick Share	Snapdrop	https://github.com/SnapDrop/snapdrop	GPL-3.0
+share	OSA Share	Simple temporary file hosting.	Google Drive (file links)	Uguu	https://github.com/nokonoko/Uguu	GPL-3.0
+share-admin	OSA Share Admin	Moderation panel for OSA Share.	Google Drive admin	Moe Panel	https://github.com/pomf/MoePanel	MIT
+bin	OSA Bin	Zero-knowledge encrypted pastebin.	Google Keep (secure notes)	PrivateBin	https://github.com/PrivateBin/PrivateBin	zlib/libpng and others (see LICENSE.md)
+snip	OSA Snip	Self-hosted code snippets and gists.	Google Keep (snippets)	Drift	https://github.com/MaxLeiter/Drift	MIT
+short	OSA Short	URL shortener with analytics.	goo.gl	Kutt	https://github.com/thedevs-network/kutt	MIT
+alias	OSA Alias	DNS-based domain redirection.	Google Domains forwarding	redirect.name	https://github.com/frolic/redirect.name	MIT
+page	OSA Page	Link-in-bio pages.	Google Sites	Singlelink	https://github.com/singlelink-co/Singlelink	GPL-3.0
+feedback	OSA Feedback	Feedback boards and public roadmaps.	Google Forms (product feedback)	LogChimp	https://github.com/logchimp/logchimp	AGPL-3.0, with Enterprise Edition directories under a proprietary license (see LICENSE)
+jam	OSA Jam	Live audio rooms.	Google Meet (audio)	Jam	https://github.com/jam-systems/jam	AGPL-3.0
+micro	OSA Micro	Ready-to-use micro service APIs.	Google Cloud APIs	M3O	https://github.com/keonjeo/m3o	Apache-2.0
+username	OSA Username	Check username availability on 100+ sites.	-	Instant Username Search	https://github.com/instantusername/instant-username-search	GPL-3.0
+osa-desktop	OSA Desktop	Dynamic Island and menu bar toolkit for macOS.	-	Vorssaint	https://github.com/vorssaint/vorssaint-utils	GPL-3.0-or-later
